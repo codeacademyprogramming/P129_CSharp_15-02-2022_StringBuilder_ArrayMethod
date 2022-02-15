@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129ArrayMethod\bin\Debug\netcoreapp3.1\P129ArrayMethod.exe
+C:\Users\memme\Desktop\P129\Task\P129ArrayMethod\bin\Debug\netcoreapp3.1\P129ArrayMethod.deps.json
+C:\Users\memme\Desktop\P129\Task\P129ArrayMethod\bin\Debug\netcoreapp3.1\P129ArrayMethod.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129ArrayMethod\bin\Debug\netcoreapp3.1\P129ArrayMethod.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129ArrayMethod\bin\Debug\netcoreapp3.1\P129ArrayMethod.dll
+C:\Users\memme\Desktop\P129\Task\P129ArrayMethod\bin\Debug\netcoreapp3.1\P129ArrayMethod.pdb
+C:\Users\memme\Desktop\P129\Task\P129ArrayMethod\obj\Debug\netcoreapp3.1\P129ArrayMethod.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129ArrayMethod\obj\Debug\netcoreapp3.1\P129ArrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129ArrayMethod\obj\Debug\netcoreapp3.1\P129ArrayMethod.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129ArrayMethod\obj\Debug\netcoreapp3.1\P129ArrayMethod.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129ArrayMethod\obj\Debug\netcoreapp3.1\P129ArrayMethod.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129ArrayMethod\obj\Debug\netcoreapp3.1\P129ArrayMethod.dll
+C:\Users\memme\Desktop\P129\Task\P129ArrayMethod\obj\Debug\netcoreapp3.1\P129ArrayMethod.pdb
+C:\Users\memme\Desktop\P129\Task\P129ArrayMethod\obj\Debug\netcoreapp3.1\P129ArrayMethod.genruntimeconfig.cache

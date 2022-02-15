@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129StringBuilder\bin\Debug\netcoreapp3.1\P129StringBuilder.exe
+C:\Users\memme\Desktop\P129\Task\P129StringBuilder\bin\Debug\netcoreapp3.1\P129StringBuilder.deps.json
+C:\Users\memme\Desktop\P129\Task\P129StringBuilder\bin\Debug\netcoreapp3.1\P129StringBuilder.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129StringBuilder\bin\Debug\netcoreapp3.1\P129StringBuilder.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129StringBuilder\bin\Debug\netcoreapp3.1\P129StringBuilder.dll
+C:\Users\memme\Desktop\P129\Task\P129StringBuilder\bin\Debug\netcoreapp3.1\P129StringBuilder.pdb
+C:\Users\memme\Desktop\P129\Task\P129StringBuilder\obj\Debug\netcoreapp3.1\P129StringBuilder.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129StringBuilder\obj\Debug\netcoreapp3.1\P129StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129StringBuilder\obj\Debug\netcoreapp3.1\P129StringBuilder.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129StringBuilder\obj\Debug\netcoreapp3.1\P129StringBuilder.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129StringBuilder\obj\Debug\netcoreapp3.1\P129StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129StringBuilder\obj\Debug\netcoreapp3.1\P129StringBuilder.dll
+C:\Users\memme\Desktop\P129\Task\P129StringBuilder\obj\Debug\netcoreapp3.1\P129StringBuilder.pdb
+C:\Users\memme\Desktop\P129\Task\P129StringBuilder\obj\Debug\netcoreapp3.1\P129StringBuilder.genruntimeconfig.cache
